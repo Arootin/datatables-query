@@ -20,13 +20,14 @@
   "author": "Vinicius Teixeira",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.4.2"
+    "@types/mongoose": "^5.5.28"
   },
   "devDependencies": {
+    "@types/datatables.net": "^1.10.18",
     "chai": "^3.2.0",
-    "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "^0.11.3",
-    "grunt-jscs": "^2.1.0",
+    "grunt": "^1.0.4",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-jscs": "^3.0.1",
     "grunt-release": "^0.13.0",
     "sinon": "^1.16.1"
   }

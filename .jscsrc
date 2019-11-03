@@ -129,10 +129,6 @@
         "beforeOpeningRoundBrace": true,
         "beforeOpeningCurlyBrace": true
     },
-    "requireSpacesInFunctionExpression": {
-        "beforeOpeningRoundBrace": true,
-        "beforeOpeningCurlyBrace": true
-    },
     "requireSpacesInNamedFunctionExpression": {
         "beforeOpeningRoundBrace": true,
         "beforeOpeningCurlyBrace": true
